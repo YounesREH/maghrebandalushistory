@@ -55,6 +55,7 @@ To make the history of the Islamic Maghreb and Al-Andalus accessible and engagin
 ![Maps](images/maps.png)
 ![LandMark](images/landmark.png)
 ![Countries](images/contries.png)
-![Chat](images/chat.png)
+![Chat](images/chat.jpg)
 ![Respensive](images/respensive.png)
+
 🚀 Developed by Younes
