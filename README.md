@@ -48,5 +48,13 @@ To make the history of the Islamic Maghreb and Al-Andalus accessible and engagin
 تقديم تاريخ المغرب الإسلامي والأندلس بشكل مبسط وجذاب باستخدام تقنيات الويب الحديثة.
 
 ---
+## 📸 Screenshots
 
+![Home](images/Home.png)
+![Perssonges](images/personnages.png)
+![Maps](images/maps.png)
+![LandMark](images/landmark.png)
+![Countries](images/contries.png)
+![Chat](images/chat.png)
+![Respensive](images/respensive.png)
 🚀 Developed by Younes
